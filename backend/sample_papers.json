@@ -1,0 +1,7 @@
+[
+  {
+    "title": "Transformers for Reinforcement Learning",
+    "summary": "This paper explores the use of transformer models to solve reinforcement learning problems by modeling trajectories as sequences. It outperforms traditional methods on several benchmarks.",
+    "link": "https://arxiv.org/abs/1234.5678"
+  }
+]
